@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leostereo<br />
-I’m interested in ... interconnecting things .... im an interconnector.
-I have allways something to do with a mix of following tools:
+I’m interested in ... interconnecting things .... im an interconnector.<br />
+Im continuosly working with some of this tools:
 
 ![](https://img.shields.io/badge/IDE-VISUAL-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -17,7 +17,7 @@ I have allways something to do with a mix of following tools:
 - 🌱 I’m currently learning ... how to be a better person ...
 - 📫 You can reach me on skype : lroggerone , mail: ingrogger@gmail.com , telegram: ingrogger.<br />
 Or , please visit my team webpage:
-[link to Google!](https://cuyolabs.com)
+[cuyolabs.com!](https://cuyolabs.com)
 
 
 <!---
