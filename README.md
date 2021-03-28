@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @leostereo<br />
-I’m interested in ... interconnecting things .... im an interconnector.<br />
+# 👋 Hi, I’m @leostereo and wellcome to my github profile<br />
+I’m love interconnecting things .... im an interconnector.<br />
 Im continuosly working with some of this tools:
 
 ![](https://img.shields.io/badge/IDE-VISUAL-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
