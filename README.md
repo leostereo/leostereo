@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @leostereo and wellcome to my github profile<br />
 I’m love interconnecting things .... im an interconnector.<br />
-Im continuosly working with some of this tools:
+Those are my favourite tools:
 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -19,11 +19,11 @@ Im continuosly working with some of this tools:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 - 🌱 I’m currently learning ... how to be a better person ...
-- 
+ 
 - 📫 Reach me:👇
-- ![[LinkedIn](https://www.linkedin.com/in/leostereo/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ingrogger@gmail.com
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @ingrogger
+![[LinkedIn](https://www.linkedin.com/in/leostereo/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 
 <!---
 leostereo/leostereo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
