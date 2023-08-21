@@ -4,7 +4,7 @@ Im continuosly working with some of this tools:
 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+![](https://img.shields.io/badge/JavaScript-VUE-REACT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 - 🌱 I’m currently learning ... how to be a better person ...
