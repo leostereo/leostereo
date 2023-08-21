@@ -12,6 +12,7 @@ Im continuosly working with some of this tools:
 ![](https://img.shields.io/badge/SCRIPT-SHELL-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SCRIPT-PERL-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-POSTGRE-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-ELK-informational?style=flat&logo=elasticsearchl&logoColor=white&color=2bbc8a)
 
 
