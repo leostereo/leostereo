@@ -2,7 +2,6 @@
 I’m love interconnecting things .... im an interconnector.<br />
 Those are my favourite tools:
 
-<center>Centered text</center>
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
