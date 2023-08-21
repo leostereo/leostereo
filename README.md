@@ -21,7 +21,9 @@ Those are my favourite tools:
 - 🌱 I’m currently learning ... how to be a better person ...
  
 - 📫 Reach me:👇
+- 
 ![[LinkedIn](https://www.linkedin.com/in/leostereo/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[leostereo](https://www.linkedin.com/in/leostereo/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 
