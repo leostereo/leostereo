@@ -6,6 +6,7 @@ Im continuosly working with some of this tools:
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CONT-DOCKERS-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PHP-LARAVEL-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PHP-SLIM-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JAVASCRIPT-VUE-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JAVASCRIPT-ReactJs-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SCRIPT-SHELL-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
