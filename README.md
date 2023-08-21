@@ -2,6 +2,10 @@
 I’m love interconnecting things .... im an interconnector.<br />
 Those are my favourite tools:
 
+<h3 style="text-align: center;">H3 that is center aligned</h3>
+
+
+
 <p style="text-align: center;">![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</p>
 
  
