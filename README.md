@@ -4,6 +4,7 @@ Im continuosly working with some of this tools:
 
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/PHP-LARAVEL/SLIM-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-VUE/REACT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
