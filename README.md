@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 👋 Hi, I’m @leostereo and wellcome to my github profile<br />
 I’m love interconnecting things .... im an interconnector.<br />
 Those are my favourite tools:
