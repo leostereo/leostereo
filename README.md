@@ -4,8 +4,7 @@
 🌱 I’m currently learning ... how to be a better person ...I love interconnecting things .... im an interconnector.<br />
 lets take a ride .... your dreams never were so close
 
-<div id="badges" style="background:black; text-align:center;">
-
+<div id="badges" style="text-align:center;background-image:url(https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)">
 
 Where would your dreams live ??? ... let me see ...
 
