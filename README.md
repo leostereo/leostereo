@@ -2,13 +2,13 @@
 
 # Hi, I’m @leostereo and you are wellcome<br />
 
-### 🌱 I’m currently learning  (how to be a better person). 
-### I love interconnecting things, so ... im an interconnector.<br />
-### Lets take a ride, your dreams never were so close
+#### 🌱 I’m currently learning  (how to be a better person). 
+#### I love interconnecting things, so ... im an interconnector.<br />
+#### Lets take a ride, your dreams never were so close
 
 <div id="badges" style="background:#161b22; text-align:center;">
 
-Where would your dreams live ??? ... let me see ...
+## Where would your dreams live ??? ... let me see ...
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
@@ -16,7 +16,7 @@ Where would your dreams live ??? ... let me see ...
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
   
-  Choose a spaceship ... and go for it!!
+## Choose a spaceship ... and go for it!!
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
