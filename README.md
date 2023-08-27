@@ -4,7 +4,7 @@
 
 #### 🌱 I’m currently learning  (how to be a better person). 
 #### I love interconnecting things, so ... im an interconnector.<br />
-#### Lets take a ride, your dreams never were so close
+#### Lets take a ride, your dreams never were so close, just let me prepare some stuff
 
 <div id="badges" style="background:#161b22; text-align:center;">
 
