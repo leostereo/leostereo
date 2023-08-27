@@ -32,7 +32,7 @@
   <img src="https://github.com/leostereo/leostereo/blob/main/slim.png" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/leostereo/leostereo/blob/main/espressif.png" width="40" height="40"/>
+  <img src="https://github.com/leostereo/leostereo/blob/main/espressif.svg" width="40" height="40"/>
 
 ### ... and we will need something to take notes ... 
   
