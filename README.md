@@ -6,7 +6,8 @@ lets take a ride .... your dreams never were so close
 
 <div id="badges" style="background:#161b22; text-align:center;">
 
-  Where would your dreams live ??? ... let me see ...
+
+Where would your dreams live ??? ... let me see ...
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
@@ -24,12 +25,13 @@ lets take a ride .... your dreams never were so close
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
 
     
+
   ohhh ohh ... we can bring some order before begin ...
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src=""/>
+  <img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" width="40" height="40"/>
   <img src=""/>
 
 ... and we will need something to take notes ... 
@@ -44,7 +46,7 @@ ahh wait a minute ... before leave , let me take something from my toolbox.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-<img src="" width="40" height="40"/>
+
 
 I think thats all ... lets doooo iiit 🚀🚀
   
