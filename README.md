@@ -26,19 +26,18 @@ lets take a ride .... your dreams never were so close
     
   ohhh ohh ... we can bring some order before begin ...
   
-  <img src="https://img.shields.io/badge/laravel-161b22?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/slim-161b22?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vuejs-161b22?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-161b22?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/espressif-161b22?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src=""/>
+  <img src=""/>
 
 ... and we will need something to take notes ... 
   
-<img src="https://img.shields.io/badge/postgres-161b22?style=for-the-badge&logo=postgres&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-161b22?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongo-161b22?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-161b22?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/elk-161b22?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 
 ahh wait a minute ... before leave , let me take something from my toolbox.
 
