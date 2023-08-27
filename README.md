@@ -27,7 +27,7 @@
 
     
 
-  ohhh ohh ... we can bring some order before begin ...
+ ## ohhh ohh ... we can bring some order before begin ...
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/leostereo/leostereo/blob/main/slim.png" width="40" height="40"/>
@@ -36,7 +36,7 @@
   <img src="https://github.com/leostereo/leostereo/blob/main/espressif.png" width="40" height="40"/>
 
 
-... and we will need something to take notes ... 
+## ... and we will need something to take notes ... 
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
@@ -44,16 +44,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 
 
-ahh wait a minute ... before leave , let me take something from my toolbox.
+## ahh wait a minute ... before leave , let me take something from my toolbox.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/leostereo/leostereo/blob/main/postman-icon.svg" width="40" height="40"/>
 
 
-I think thats all ... lets doooo iiit 🚀🚀
-  
-  
+## I think thats all ... lets doooo iiit 🚀🚀
+    
 </div>
 
 
