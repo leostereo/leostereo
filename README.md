@@ -39,11 +39,12 @@ lets take a ride .... your dreams never were so close
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 
+
 ahh wait a minute ... before leave , let me take something from my toolbox.
 
-  <img src="https://img.shields.io/badge/visual studio-161b22?style=for-the-badge&logo=visual-studio&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/git-161b22?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-161b22?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+<img src="" width="40" height="40"/>
 
 I think thats all ... lets doooo iiit 🚀🚀
   
