@@ -1,11 +1,11 @@
 
 
 # Hi, I’m @leostereo and you are wellcome<br />
-🌱 I’m currently learning ... how to be a better person ...I love interconnecting things .... im an interconnector.<br />
-lets take a ride .... your dreams never were so close
+🌱 I’m currently learning  (how to be a better person). 
+I love interconnecting things, so ... im an interconnector.<br />
+Lets take a ride, your dreams never were so close
 
 <div id="badges" style="background:#161b22; text-align:center;">
-
 
 Where would your dreams live ??? ... let me see ...
 
