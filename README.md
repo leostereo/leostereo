@@ -46,7 +46,7 @@ ahh wait a minute ... before leave , let me take something from my toolbox.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/leostereo/leostereo/blob/main/postman.png" width="40" height="40"/>
+<img src="https://github.com/leostereo/leostereo/blob/main/postman-icon.svg" width="40" height="40"/>
 
 
 I think thats all ... lets doooo iiit 🚀🚀
