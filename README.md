@@ -15,6 +15,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+<img src="https://github.com/leostereo/leostereo/blob/main/mosquitto.png" width="40" height="40"/>
   
 ### Choose a spaceship ... and go for it!!
 
